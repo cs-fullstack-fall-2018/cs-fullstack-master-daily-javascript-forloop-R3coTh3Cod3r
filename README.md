@@ -15,3 +15,19 @@ C. The condition under which the loop will execute
 
 D. The highest value that the counter variable may reach
 D is the answer
+
+/*
+	Sorry but Wrong. The correct answer is 'B'
+
+	for ([initialExpression]; [condition]; [incrementExpression])
+
+
+	Example:
+
+	```for (i = 0; i < 5; i++)
+	{
+		// Do some stuff
+	}```
+
+	See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+*/
